@@ -51,7 +51,7 @@ instead of being silently merged into the source of truth.
 Excluded by `.gitignore`: all PDFs, `dist/`, `node_modules/`, `.wrangler/`,
 `.dev.vars*`, `.env*`, `media/`, `assets/`.
 Verified: no media blob, no key-shaped literal, and zero occurrences of
-`theblackgarter` in any committed blob.
+the forbidden domain in any committed blob.
 
 ## Not verified
 
