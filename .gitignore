@@ -1,0 +1,13 @@
+# estate source of truth - witchcraft-expert
+# source only: build artifacts, deps, secrets and ALL media are excluded
+*.pdf
+*.html.pdf
+media/
+assets/
+dist/
+node_modules/
+.wrangler/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
